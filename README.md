@@ -1,4 +1,4 @@
-![unsplash_dj](https://github.com/CLizardi/webscrape_spotify_tool/assets/52866379/345edd38-3e86-451b-9406-2c92eec6e197)
+![unsplash_dj](https://github.com/CLizardi/webscrape_spotify_tool/assets/52866379/fcf4f7aa-9235-4bcc-b932-48c62620549e)
 
 # Web Scraping and Spotify Track Search
 

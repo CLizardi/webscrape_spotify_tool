@@ -1,3 +1,5 @@
+![unsplash_dj](https://github.com/CLizardi/webscrape_spotify_tool/assets/52866379/345edd38-3e86-451b-9406-2c92eec6e197)
+
 # Web Scraping and Spotify Track Search
 
 This project involves web scraping tracklists from the website "https://sharing-db.club/category/minimal/" and searching for the extracted track names on Spotify. The goal is to document the tracks found, locate the tracks in spotify, and then add it to a playlist.
@@ -45,10 +47,4 @@ During the development of this project, I gained the following insights and know
 
 The Web Scraping and Spotify Track Search project successfully demonstrates the automation of documenting tracks from a website and checking their availability on Spotify. It streamlines the process by eliminating the need for manual search, providing valuable insights into the presence of tracks on the Spotify platform.
 
-In the future, I plan to further enhance this project by incorporating additional features such as generating reports or recommendations based on the extracted track data. This project serves as a valuable learning experience and provides a foundation for similar automation tasks involving web scraping and API integration.
-
-Special thanks to the creators of the Requests, BeautifulSoup, Pandas, and spotipy libraries, which greatly facilitated the development process.
-
----
-
-Feel free to modify and adapt this README template to better suit your project. Make sure to replace the content with your own descriptions, details, and observations.
+This project serves as a valuable learning experience and provides a foundation for similar automation tasks involving web scraping and API integration.
